@@ -11,6 +11,15 @@ private:
     Node *parent;
 
 public:
+    Node() {};
+    Node(int color, K key, Node *left, Node *right, Node *parent)
+    {
+        this->color = color;
+        this->key = key;
+        this->left = left;
+        this->right = right;
+        this->parent = parent;
+    }
     bool setColor(int color)
     {
         this->color = color;
