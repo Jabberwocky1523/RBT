@@ -1,3 +1,0 @@
-C:/Users/Kurisu/Desktop/RBT/out/build/RBT/CMakeFiles/main.dir
-C:/Users/Kurisu/Desktop/RBT/out/build/RBT/CMakeFiles/edit_cache.dir
-C:/Users/Kurisu/Desktop/RBT/out/build/RBT/CMakeFiles/rebuild_cache.dir
